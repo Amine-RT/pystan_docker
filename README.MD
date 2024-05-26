@@ -1,8 +1,8 @@
 # Python Development Environment with SSH, VSCode, Jupyter, and pystan
 
-![Docker Image Version (latest by date)](https://img.shields.io/docker/v/arannentriki/mldsweek6stanenv?style=flat-square)
-![Docker Pulls](https://img.shields.io/docker/pulls/arannentriki/mldsweek6stanenv?style=flat-square)
-![Docker Stars](https://img.shields.io/docker/stars/arannentriki/mldsweek6stanenv?style=flat-square)
+![Docker Image Version (latest by date)](https://img.shields.io/docker/v/arannentriki/pystan_dev?style=flat-square)
+![Docker Pulls](https://img.shields.io/docker/pulls/arannentriki/pystan_dev?style=flat-square)
+![Docker Stars](https://img.shields.io/docker/stars/arannentriki/pystan_dev?style=flat-square)
 ![Python Version](https://img.shields.io/badge/python-3.10-blue.svg?style=flat-square)
 ![License](https://img.shields.io/github/license/Amine-RT/pystan_docker?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/Amine-RT/pystan_docker?style=flat-square)
