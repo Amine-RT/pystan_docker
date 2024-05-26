@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pystandocker:
+    image: pystandocker
+    build:
+      context: .
+      dockerfile: ./Dockerfile
