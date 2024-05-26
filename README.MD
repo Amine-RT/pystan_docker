@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/github/license/Amine-RT/pystan_docker?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/Amine-RT/pystan_docker?style=flat-square)
 
+
 This Docker image is based on `python:3.10.0-bullseye` and is designed to provide a comprehensive development environment with the following features:
 
 - **Python 3.10**: A modern version of Python for all your scripting and development needs.
